@@ -10,7 +10,7 @@ export default function Home() {
         width={1600}
         height={1200}
         alt="glass image"
-        className="fixed top-0 left-0 w-full h-full object-cover z-0 pointer-events-none"
+        className="fixed  top-0 left-0 w-full h-full object-cover z-0 pointer-events-none"
       />
     </div>
   );
